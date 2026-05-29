@@ -24,6 +24,6 @@ Herramienta ETL para analistas de datos que simplifica la transformación y gest
 skills = {
     "lenguajes": ["Python", "SQL"],
     "especialidades": ["Data Analysis", "ETL", "NLP", "Text-to-SQL"],
-    "frameworks": ["Pandas", LangChain],
+    "frameworks": ["Pandas", "LangChain"],
     "aprendiendo": ["Machine Learning", "Cloud Architecture"]
 }
