@@ -1,15 +1,15 @@
 ## ¡Hola! 👋 Soy Sebastián Leal
 
-## 👨‍💻 Sobre mí
-Desarrollador apasionado por **Python**, **análisis de datos** y soluciones que resuelven problemas reales. Me especializo en crear herramientas que simplifican procesos complejos y hacen que los datos sean accesibles para todos.
+## Sobre mí
+Memorista en Ingeniería Civil Industrial, apasionado por **Python**, **análisis de datos**, **AI/ML** y soluciones que resuelven problemas reales.
 
-## 🚀 Lo que hago
+## Lo que hago
 - 🐍 Desarrollo en **Python**
 - 📊 **ETL** y procesamiento de datos
 - 🤖 Sistemas de **inteligencia artificial** y procesamiento de lenguaje natural
 - 💾 Gestión y análisis de grandes volúmenes de datos
 
-## 💡 Proyectos
+## Proyectos
 
 ### 📈 **El Censista**
 Sistema inteligente que permite hacer consultas en lenguaje natural sobre datos del Censo del 2024 de Chile. Un proyecto *text-to-SQL* que democratiza el acceso a la información.
